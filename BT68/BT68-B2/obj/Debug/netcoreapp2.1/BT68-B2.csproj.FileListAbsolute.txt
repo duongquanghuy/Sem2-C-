@@ -1,0 +1,11 @@
+E:\visual C#\BT68-B2\obj\Debug\netcoreapp2.1\BT68-B2.csprojAssemblyReference.cache
+E:\visual C#\BT68-B2\obj\Debug\netcoreapp2.1\BT68-B2.csproj.CoreCompileInputs.cache
+E:\visual C#\BT68-B2\obj\Debug\netcoreapp2.1\BT68-B2.AssemblyInfoInputs.cache
+E:\visual C#\BT68-B2\obj\Debug\netcoreapp2.1\BT68-B2.AssemblyInfo.cs
+E:\visual C#\BT68-B2\bin\Debug\netcoreapp2.1\BT68-B2.deps.json
+E:\visual C#\BT68-B2\bin\Debug\netcoreapp2.1\BT68-B2.runtimeconfig.json
+E:\visual C#\BT68-B2\bin\Debug\netcoreapp2.1\BT68-B2.runtimeconfig.dev.json
+E:\visual C#\BT68-B2\bin\Debug\netcoreapp2.1\BT68-B2.dll
+E:\visual C#\BT68-B2\bin\Debug\netcoreapp2.1\BT68-B2.pdb
+E:\visual C#\BT68-B2\obj\Debug\netcoreapp2.1\BT68-B2.dll
+E:\visual C#\BT68-B2\obj\Debug\netcoreapp2.1\BT68-B2.pdb
