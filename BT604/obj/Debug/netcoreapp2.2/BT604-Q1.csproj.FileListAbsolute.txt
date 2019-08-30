@@ -1,0 +1,11 @@
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\bin\Debug\netcoreapp2.2\BT604-Q1.deps.json
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\bin\Debug\netcoreapp2.2\BT604-Q1.runtimeconfig.json
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\bin\Debug\netcoreapp2.2\BT604-Q1.runtimeconfig.dev.json
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\bin\Debug\netcoreapp2.2\BT604-Q1.dll
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\bin\Debug\netcoreapp2.2\BT604-Q1.pdb
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\obj\Debug\netcoreapp2.2\BT604-Q1.csprojAssemblyReference.cache
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\obj\Debug\netcoreapp2.2\BT604-Q1.csproj.CoreCompileInputs.cache
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\obj\Debug\netcoreapp2.2\BT604-Q1.AssemblyInfoInputs.cache
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\obj\Debug\netcoreapp2.2\BT604-Q1.AssemblyInfo.cs
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\obj\Debug\netcoreapp2.2\BT604-Q1.dll
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT604\obj\Debug\netcoreapp2.2\BT604-Q1.pdb

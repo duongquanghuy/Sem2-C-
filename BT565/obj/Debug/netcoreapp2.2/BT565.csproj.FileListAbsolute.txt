@@ -1,0 +1,11 @@
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\bin\Debug\netcoreapp2.2\BT565.deps.json
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\bin\Debug\netcoreapp2.2\BT565.runtimeconfig.json
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\bin\Debug\netcoreapp2.2\BT565.runtimeconfig.dev.json
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\bin\Debug\netcoreapp2.2\BT565.dll
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\obj\Debug\netcoreapp2.2\BT565.csprojAssemblyReference.cache
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\obj\Debug\netcoreapp2.2\BT565.csproj.CoreCompileInputs.cache
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\obj\Debug\netcoreapp2.2\BT565.AssemblyInfoInputs.cache
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\obj\Debug\netcoreapp2.2\BT565.AssemblyInfo.cs
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\bin\Debug\netcoreapp2.2\BT565.pdb
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\obj\Debug\netcoreapp2.2\BT565.dll
+C:\Users\Duy Lumiere\source\repos\BaiTapDotNet\BT565\obj\Debug\netcoreapp2.2\BT565.pdb
